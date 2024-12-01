@@ -39,7 +39,7 @@ export function Sidebar() {
               animate={{ opacity: 1 }}
               className="text-xl font-semibold text-orange-600"
             >
-              CloudDash
+              SetupBoxs
             </motion.span>
           )}
           <button
